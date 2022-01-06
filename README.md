@@ -9,4 +9,4 @@ I also added a Data Access layer that handles the request/response to the server
 Server built using C# and .Net Sockets.
 The server is setup as a homebrew message broker having different layers consisting of producers and a broker where it conmmunicates with clients also called consumers.
 
-
+![alt text](https://github.com/martinloenne/live-stock-prices/blob/master/runningApplication.png)
