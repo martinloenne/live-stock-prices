@@ -1,0 +1,88 @@
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\bin\Debug\net5.0-windows\StockClient.exe
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\bin\Debug\net5.0-windows\StockClient.deps.json
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\bin\Debug\net5.0-windows\StockClient.runtimeconfig.json
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\bin\Debug\net5.0-windows\StockClient.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\bin\Debug\net5.0-windows\StockClient.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\bin\Debug\net5.0-windows\ref\StockClient.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\bin\Debug\net5.0-windows\StockClient.pdb
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient_MarkupCompile.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient_MarkupCompile.lref
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.g.resources
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.AssemblyInfo.cs
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\ref\StockClient.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.pdb
+C:\Users\Admin\Desktop\aflevering\Client\StockClient\StockClient\obj\Debug\net5.0-windows\StockClient.genruntimeconfig.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.exe
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.deps.json
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.runtimeconfig.json
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\bin\Debug\net5.0-windows\ref\StockClient.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.pdb
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient_MarkupCompile.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient_MarkupCompile.lref
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.g.resources
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.AssemblyInfo.cs
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\ref\StockClient.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.pdb
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.exe
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.deps.json
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.dll
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\bin\Debug\net5.0-windows\ref\StockClient.dll
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\bin\Debug\net5.0-windows\StockClient.pdb
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient_MarkupCompile.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient_MarkupCompile.lref
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.g.resources
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.dll
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\ref\StockClient.dll
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.pdb
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockClient\obj\Debug\net5.0-windows\StockClient.genruntimeconfig.cache
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\bin\Debug\net5.0-windows\StockClient.exe
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\bin\Debug\net5.0-windows\StockClient.deps.json
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\bin\Debug\net5.0-windows\StockClient.runtimeconfig.json
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\bin\Debug\net5.0-windows\StockClient.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\bin\Debug\net5.0-windows\StockClient.dll
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\bin\Debug\net5.0-windows\ref\StockClient.dll
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\bin\Debug\net5.0-windows\StockClient.pdb
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient_MarkupCompile.cache
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient_MarkupCompile.lref
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.g.resources
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.AssemblyInfo.cs
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.dll
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\ref\StockClient.dll
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.pdb
+C:\Users\Admin\Desktop\stocksFinal\livestockprices\StockClient\obj\Debug\net5.0-windows\StockClient.genruntimeconfig.cache

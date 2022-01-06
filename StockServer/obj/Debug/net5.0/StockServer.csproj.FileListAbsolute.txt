@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\bin\Debug\net5.0\StockServer.exe
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\bin\Debug\net5.0\StockServer.deps.json
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\bin\Debug\net5.0\StockServer.runtimeconfig.json
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\bin\Debug\net5.0\StockServer.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\bin\Debug\net5.0\StockServer.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\bin\Debug\net5.0\ref\StockServer.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\bin\Debug\net5.0\StockServer.pdb
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\StockServer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\StockServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\StockServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\StockServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\StockServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\StockServer.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\ref\StockServer.dll
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\StockServer.pdb
+C:\Users\Admin\Desktop\aflevering\Client\StockPrices\StockServer\obj\Debug\net5.0\StockServer.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\StockServer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\StockServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\StockServer.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\StockServer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\StockServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\StockServer.dll
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\ref\StockServer.dll
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\StockServer.pdb
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\bin\Debug\net5.0\StockServer.exe
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\bin\Debug\net5.0\StockServer.deps.json
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\bin\Debug\net5.0\StockServer.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\bin\Debug\net5.0\StockServer.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\bin\Debug\net5.0\StockServer.dll
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\bin\Debug\net5.0\ref\StockServer.dll
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\bin\Debug\net5.0\StockServer.pdb
+C:\Users\Admin\Desktop\New folder (4)\stockv1\StockPrices\StockServer\obj\Debug\net5.0\StockServer.genruntimeconfig.cache

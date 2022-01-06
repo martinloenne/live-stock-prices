@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "IxBvbb9NA8QHlAmQwX7KKWlM6DAYIQHuyAOpG7y7BbqvTMxjl9/XlZkS4XB3wkkY8EeRCgfnUCd+a8QmDx1Cpw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\New folder (4)\\stockv1\\StockPrices\\StockClientClientUnitTests\\StockClientClientUnitTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project StockClient is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project StockClient supports: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "StockClient",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

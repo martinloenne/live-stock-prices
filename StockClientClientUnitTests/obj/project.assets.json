@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "StockClient/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/StockClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StockClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StockClient/1.0.0": {
+      "type": "project",
+      "path": "../StockClient/StockClient.csproj",
+      "msbuildProject": "../StockClient/StockClient.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "StockClient >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (4)\\stockv1\\StockPrices\\StockClientClientUnitTests\\StockClientClientUnitTests.csproj",
+      "projectName": "StockClientClientUnitTests",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (4)\\stockv1\\StockPrices\\StockClientClientUnitTests\\StockClientClientUnitTests.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (4)\\stockv1\\StockPrices\\StockClientClientUnitTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": ".NETCoreApp,Version=v5.0",
+          "projectReferences": {
+            "C:\\Users\\Admin\\Desktop\\New folder (4)\\stockv1\\StockPrices\\StockClient\\StockClient.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (4)\\stockv1\\StockPrices\\StockClient\\StockClient.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": ".NETCoreApp,Version=v5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project StockClient is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project StockClient supports: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "StockClient",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

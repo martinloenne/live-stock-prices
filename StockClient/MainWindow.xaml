@@ -1,0 +1,20 @@
+﻿<Window x:Class="StockClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StockClient"
+        mc:Ignorable="d"
+        Title="Stock prices" Height="450" Width="500">
+    <Grid Margin="20,20">
+
+    <DataGrid ItemsSource="{Binding Stocks}" AutoGenerateColumns="False" Grid.Row="1" SelectedItem="{Binding SelectedStock}">
+      <DataGrid.Columns>
+        <DataGridTextColumn Header="Symbol" Width="*" Binding="{Binding symbol}" />
+        <DataGridTextColumn Header="Bid" Width="*" Binding="{Binding bid}"/>
+        <DataGridTextColumn Header="Ask" Width="*" Binding="{Binding ask}"/>
+      </DataGrid.Columns>
+    </DataGrid>
+
+  </Grid>
+</Window>
